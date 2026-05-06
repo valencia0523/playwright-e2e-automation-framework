@@ -1,8 +1,8 @@
-# Playwright E2E Automation Framework
+# E2E Test Automation Framework
 
 [![CI](https://github.com/valencia0523/playwright-e2e-automation-framework/actions/workflows/playwright.yml/badge.svg)](https://github.com/valencia0523/playwright-e2e-automation-framework/actions/workflows/playwright.yml)
 
-End-to-end UI test automation framework built with Playwright & TypeScript, focused on reliable testing of real user flows.
+End-to-end UI test automation framework built with **Playwright & TypeScript**, focused on reliable testing of real user flows.
 
 ---
 
